@@ -14,7 +14,7 @@ This will read the `input_file`, search for occurence of {{ and }} with some tex
 
 If found it uses the found string as a file path and reads the file contents and replaces the occurence of the placeholder with the contents.
 
-*Note* Currently the paths to the files need to be relative to the location the script is run from*
+*Note Currently the paths to the files need to be relative to the location the script is run from*
 
 ### Example
 
